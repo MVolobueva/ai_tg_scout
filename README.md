@@ -1,73 +1,22 @@
-# Welcome to your Lovable project
+# AI Telegram рекрутер Мария
 
-## Project info
+Этот проект представляет собой AI-бота для Telegram — Мария, которая помогает упростить процесс поиска кандидатов. Она подбирает группы и каналы в Telegram, подходящие под вашу вакансию, и помогает сделать ваше объявление более привлекательным для соискателей.
 
-**URL**: https://lovable.dev/projects/686caec5-1809-43c6-b0c2-062958cddde7
+Кроме того, Мария собирает контакты и информацию о соискателях, которые подходят под ваши требования, что значительно ускоряет процесс найма и повышает его эффективность.
 
-## How can I edit this code?
+## Веб-интерфейс
 
-There are several ways of editing your application.
+Для управления и настройки используйте веб-интерфейс:  
+[Перейти к веб-интерфейсу](https://preview--talent-scout-ai-radar.lovable.app/admin)
 
-**Use Lovable**
+## Бот в Telegram
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/686caec5-1809-43c6-b0c2-062958cddde7) and start prompting.
+Чтобы начать работу с ботом, напишите ему в Telegram:  
+[@HRassistant_test_bot](https://t.me/HRassistant_test_bot)
 
-Changes made via Lovable will be committed automatically to this repo.
+## Ознакомительные материалы
 
-**Use your preferred IDE**
+Этот проект содержит презентацию и видео для более подробного ознакомления:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/686caec5-1809-43c6-b0c2-062958cddde7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- **presentation.pdf** — презентация в формате PDF: [Посмотреть презентацию](https://github.com/MVolobueva/ai_tg_scout/blob/main/telegram-recruter.pdf)  
+- **presentation.video** — видеопрезентация: [Посмотреть видео](https://disk.360.yandex.ru/d/uHi0RTjT9_d4Yw)
