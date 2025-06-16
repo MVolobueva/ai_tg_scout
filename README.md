@@ -20,3 +20,6 @@
 
 - **presentation.pdf** — презентация в формате PDF: [Посмотреть презентацию](https://github.com/MVolobueva/ai_tg_scout/blob/main/telegram-recruter.pdf)  
 - **presentation.video** — видеопрезентация: [Посмотреть видео](https://disk.360.yandex.ru/d/uHi0RTjT9_d4Yw)
+
+## History
+Все код проекта был написан в период с 9 по 16 июня 2025 года. Последние доработки были сделаны 16 июня и добавлены в проект. 
